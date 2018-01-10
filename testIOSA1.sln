@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testFormA1.Droid", "Droid\t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testFormA1.UITests", "UITests\testFormA1.UITests.csproj", "{0DE9B58F-2A37-4DE5-B228-32AEA12F31C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quickTest", "quickTest\quickTest.csproj", "{DEF6BFA1-5EB0-4562-B083-6B4A33E5C134}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -59,5 +61,13 @@ Global
 		{0DE9B58F-2A37-4DE5-B228-32AEA12F31C0}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{0DE9B58F-2A37-4DE5-B228-32AEA12F31C0}.Debug|iPhone.ActiveCfg = Debug|Any CPU
 		{0DE9B58F-2A37-4DE5-B228-32AEA12F31C0}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{DEF6BFA1-5EB0-4562-B083-6B4A33E5C134}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{DEF6BFA1-5EB0-4562-B083-6B4A33E5C134}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{DEF6BFA1-5EB0-4562-B083-6B4A33E5C134}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{DEF6BFA1-5EB0-4562-B083-6B4A33E5C134}.Release|iPhone.Build.0 = Release|Any CPU
+		{DEF6BFA1-5EB0-4562-B083-6B4A33E5C134}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{DEF6BFA1-5EB0-4562-B083-6B4A33E5C134}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{DEF6BFA1-5EB0-4562-B083-6B4A33E5C134}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{DEF6BFA1-5EB0-4562-B083-6B4A33E5C134}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
